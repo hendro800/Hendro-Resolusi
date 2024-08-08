@@ -2,3 +2,4 @@ resolusi tahun 2022
 -Menambah bahasa koding
 -badan proposional
 -bisa memainkan alat musik
+-menjadi QA
